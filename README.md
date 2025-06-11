@@ -10,6 +10,12 @@
   <img src="images/landingpage.PNG" alt="Zrzut ekranu projektu 1" width="450">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="images/menu.PNG" alt="Zrzut ekranu projektu 2" width="450">
+   &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/menu_koszyk1.PNG" alt="Zrzut ekranu projektu 3" width="450">
+   &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/menu_koszyk2.PNG" alt="Zrzut ekranu projektu 4" width="450">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/kontakt.PNG" alt="Zrzut ekranu projektu 5" width="450">
 </p>
 
 ---
