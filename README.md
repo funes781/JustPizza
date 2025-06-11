@@ -7,9 +7,9 @@
 ## 📸 Zrzuty ekranu projektu
 
 <p align="center">
-  <img src="images/landingpage.png" alt="Zrzut ekranu projektu 1" width="450">
+  <img src="images/landingpage.PNG" alt="Zrzut ekranu projektu 1" width="450">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="images/menu.png" alt="Zrzut ekranu projektu 2" width="450">
+  <img src="images/menu.PNG" alt="Zrzut ekranu projektu 2" width="450">
 </p>
 
 ---
