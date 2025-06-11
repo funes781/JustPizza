@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "nazwa": "Pepperoni",
+    "image": "pepperoni.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "podwójna porcja pepperoni",
+      "ser mozzarella",
+      "oregano",
+      "chili (opcjonalnie)"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 25,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 29,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 35,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "15-20 minut",
+    "kolor_baner": "#c53030",
+    "opis": "Klasyczna amerykańska pizza pepperoni z podwójną porcją pepperoni i idealnie rozpuszczonym serem mozzarella."
+  },
+  {
+    "id": 2,
+    "nazwa": "Margherita",
+    "image": "margherita.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "świeża mozzarella",
+      "liście bazylii",
+      "oliwa z oliwek"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 22,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 26,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 32,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "12-15 minut",
+    "kolor_baner": "#e74c3c",
+    "opis": "Prosta i elegancka włoska klasyka z świeżą mozzarellą i aromatyczną bazylią."
+  },
+  {
+    "id": 3,
+    "nazwa": "Wegetariańska",
+    "image": "vegetariana.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "papryka",
+      "cukinia",
+      "pieczarki",
+      "oliwki",
+      "ser feta"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 24,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 28,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 34,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "15-18 minut",
+    "kolor_baner": "#2ecc71",
+    "opis": "Kolorowa pizza pełna świeżych warzyw z dodatkiem aromatycznej rukoli i sera feta."
+  },
+  {
+    "id": 4,
+    "nazwa": "Capricciosa",
+    "image": "capricciosa.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "szynka",
+      "pieczarki",
+      "karczochy",
+      "oliwki",
+      "ser mozzarella"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 26,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 30,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 36,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "16-20 minut",
+    "kolor_baner": "#3498db",
+    "opis": "Bogata kompozycja szynki, pieczarek i karczochów na chrupiącym cieście."
+  },
+  {
+    "id": 5,
+    "nazwa": "Kebab",
+    "image": "kebab.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "mięso kebab",
+      "cebula czerwona",
+      "pomidor",
+      "sos czosnkowy"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 27,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 31,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 37,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "18-22 minut",
+    "kolor_baner": "#95a5a6",
+    "opis": "Pizza inspirowana smakiem kebabu z soczystym mięsem, świeżymi warzywami i sosem czosnkowym."
+  },
+  {
+    "id": 6,
+    "nazwa": "Cztery Sery",
+    "image": "serowa.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "ser mozzarella",
+      "ser gorgonzola",
+      "ser parmezan",
+      "ser ricotta"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 28,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 32,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 38,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "15-18 minut",
+    "kolor_baner": "#f1c40f",
+    "opis": "Bogactwo smaku czterech rodzajów serów, idealna dla miłośników sera."
+  },
+  {
+    "id": 7,
+    "nazwa": "Hawajska",
+    "image": "hawajska.png",
+    "kategoria": "pizza",
+    "skladniki": ["sos pomidorowy", "szynka", "ananas", "ser mozzarella"],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 25,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 29,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 35,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "14-17 minut",
+    "kolor_baner": "#2ecc71",
+    "opis": "Kontrowersyjna, ale uwielbiana pizza hawajska z szynką i ananasem."
+  },
+  {
+    "id": 8,
+    "nazwa": "Mięsna Uczta",
+    "image": "miesna.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "bekon",
+      "kiełbasa",
+      "szynka",
+      "pepperoni",
+      "ser mozzarella"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 30,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 34,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 40,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "18-22 minut",
+    "kolor_baner": "#e74c3c",
+    "opis": "Pizza dla prawdziwych mięsożerców z obfitością różnych rodzajów mięs."
+  },
+  {
+    "id": 9,
+    "nazwa": "Meksykańska",
+    "image": "meksykanska.png",
+    "kategoria": "pizza",
+    "skladniki": [
+      "sos pomidorowy",
+      "mięso mielone",
+      "papryczki jalapeno",
+      "cebula",
+      "kukurydza",
+      "sos chilli",
+      "ser mozzarella"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała",
+        "cena": 27,
+        "srednica": "30cm"
+      },
+      {
+        "nazwa": "Średnia",
+        "cena": 31,
+        "srednica": "40cm"
+      },
+      {
+        "nazwa": "Duża",
+        "cena": 37,
+        "srednica": "50cm"
+      }
+    ],
+    "czas_wykonania": "16-20 minut",
+    "kolor_baner": "#e67e22",
+    "opis": "Ostra i wyrazista pizza z meksykańskim akcentem, idealna dla miłośników pikantnych smaków."
+  },
+
+
+
+  {
+    "id": 10,
+    "nazwa": "Frytki",
+    "image": "frytki.png",
+    "kategoria": "dodatki",
+    "skladniki": ["ziemniaki", "sól"],
+    "rozmiary": [
+      {
+        "nazwa": "Mała Porcja",
+        "cena": 8
+      },
+      {
+        "nazwa": "Duża Porcja",
+        "cena": 12
+      }
+    ],
+    "czas_wykonania": "8-10 minut",
+    "kolor_baner": "#f39c12",
+    "opis": "Chrupiące frytki, idealne jako dodatek do każdego dania."
+  },
+  {
+    "id": 11,
+    "nazwa": "Krążki Cebulowe",
+    "image": "krazki.png",
+    "kategoria": "dodatki",
+    "skladniki": ["cebula", "ciasto", "przyprawy"],
+    "rozmiary": [
+      {
+        "nazwa": "Porcja",
+        "cena": 10
+      }
+    ],
+    "czas_wykonania": "7-9 minut",
+    "kolor_baner": "#e67e22",
+    "opis": "Złociste i chrupiące krążki cebulowe."
+  },
+  {
+    "id": 12,
+    "nazwa": "Nachosy",
+    "image": "nachos.png",
+    "kategoria": "dodatki",
+    "skladniki": [
+      "placki kukurydziane",
+      "ser cheddar",
+      "papryczki jalapeño",
+      "guacamole",
+      "śmietana"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Mała Porcja",
+        "cena": 15
+      },
+      {
+        "nazwa": "Duża Porcja",
+        "cena": 25
+      }
+    ],
+    "czas_wykonania": "10-12 minut",
+    "kolor_baner": "#FFA500",
+    "opis": "Chrupiące placki kukurydziane z roztopionym serem i dodatkami."
+  },
+
+
+
+  {
+    "id": 13,
+    "nazwa": "Sos Czosnkowy",
+    "image": "sos_czosnkowy.png",
+    "kategoria": "sosy",
+    "skladniki": ["majonez", "czosnek", "jogurt naturalny", "zioła"],
+    "rozmiary": [
+      {
+        "nazwa": "Standardowy",
+        "cena": 4
+      }
+    ],
+    "czas_wykonania": "1 minuta",
+    "kolor_baner": "#bdc3c7",
+    "opis": "Klasyczny sos czosnkowy, idealny do pizzy i dodatków."
+  },
+  {
+    "id": 14,
+    "nazwa": "Sos Pomidorowy Pikantny",
+    "image": "sos_pikantny.png",
+    "kategoria": "sosy",
+    "skladniki": ["przecier pomidorowy", "papryczka chili", "przyprawy"],
+    "rozmiary": [
+      {
+        "nazwa": "Standardowy",
+        "cena": 4
+      }
+    ],
+    "czas_wykonania": "1 minuta",
+    "kolor_baner": "#e74c3c",
+    "opis": "Pikantny sos pomidorowy, dodający ostrości."
+  },
+   {
+    "id": 15,
+    "nazwa": "Sos BBQ",
+    "image": "sos_bbq.png",
+    "kategoria": "sosy",
+    "skladniki": [
+      "koncentrat pomidorowy",
+      "ocet",
+      "cukier",
+      "przyprawy",
+      "wędzona papryka"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Standardowy",
+        "cena": 5
+      }
+    ],
+    "czas_wykonania": "1 minuta",
+    "kolor_baner": "#8B4513",
+    "opis": "Słodko-wędzony sos BBQ, idealny do mięs i frytek."
+  },
+  {
+    "id": 16,
+    "nazwa": "Sos 1000 Wysp",
+    "image": "sos_wysp.png",
+    "kategoria": "sosy",
+    "skladniki": [
+      "majonez",
+      "keczup",
+      "ogórki kiszone",
+      "cebula",
+      "przyprawy"
+    ],
+    "rozmiary": [
+      {
+        "nazwa": "Standardowy",
+        "cena": 5
+      }
+    ],
+    "czas_wykonania": "1 minuta",
+    "kolor_baner": "#FF6347",
+    "opis": "Klasyczny sos o wyrazistym smaku, doskonały do sałatek i przekąsek."
+  },
+
+
+
+  {
+    "id": 17,
+    "nazwa": "Cola",
+    "image": "cola.png",
+    "kategoria": "napoje",
+    "skladniki": [],
+    "rozmiary": [
+      {
+        "nazwa": "0.5L",
+        "cena": 7
+      },
+      {
+        "nazwa": "1.0L",
+        "cena": 10
+      }
+    ],
+    "czas_wykonania": "0 minut",
+    "kolor_baner": "#c0392b",
+    "opis": "Gazowany napój orzeźwiający."
+  },
+  {
+    "id": 18,
+    "nazwa": "Pepsi",
+    "image": "pepsi.png",
+    "kategoria": "napoje",
+    "skladniki": [],
+    "rozmiary": [
+      {
+        "nazwa": "0.5L",
+        "cena": 7
+      },
+      {
+        "nazwa": "1.0L",
+        "cena": 10
+      }
+    ],
+    "czas_wykonania": "0 minut",
+    "kolor_baner": "#c0392b",
+    "opis": "Gazowany napój orzeźwiający."
+  },
+   {
+    "id": 19,
+    "nazwa": "Fanta",
+    "image": "fanta.png",
+    "kategoria": "napoje",
+    "skladniki": [],
+    "rozmiary": [
+      {
+        "nazwa": "0.5L",
+        "cena": 7
+      },
+      {
+        "nazwa": "1.0L",
+        "cena": 10
+      }
+    ],
+    "czas_wykonania": "0 minut",
+    "kolor_baner": "#c0392b",
+    "opis": "Gazowany napój orzeźwiający."
+  },
+  {
+    "id": 20,
+    "nazwa": "Tymbark soki",
+    "image": "tymbark.png",
+    "kategoria": "napoje",
+    "skladniki": [],
+    "rozmiary": [
+      {
+        "nazwa": "0.33L",
+        "cena": 6
+      },
+      {
+        "nazwa": "1.0L",
+        "cena": 9
+      }
+    ],
+    "czas_wykonania": "0 minut",
+    "kolor_baner": "#f1c40f",
+    "opis": "Naturalne, świeże soki owocowe"
+  }
+]
